@@ -24,7 +24,7 @@ img {
     border: 10px, 2px solid #f4f4f4;
     border-radius: 50px;
     border-width: 2px;
-    border-style: solid;
+    border-style: ridge;
     margin: 20px, 5vw, 1em;
     margin-bottom: -18px;
     margin-right: 450px;background-color: purple;
@@ -39,3 +39,42 @@ img {
     color: white;
     
 }
+
+.body {
+    padding: 40px;
+    border: 10px, 2px solid #f4f4f4;
+    border-radius: 50px;
+    border-width: 2px;
+    border-style: ridge;
+    margin: 20px, 5vw, 1em;
+    margin-bottom: -186x;
+    margin-right: 450px;
+    margin-top: 28px;
+    background-color: purple;
+}
+
+.body h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    color: black;
+}
+
+.body p {
+    text-align:start;
+    font-size: large;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.6;
+    color: white;
+}
+
+.body ul {
+    text-align:start;
+    font-size: large;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.6;
+    color: white;
+}
+
