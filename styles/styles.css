@@ -11,3 +11,11 @@ line-height: 1.6;
     font-weight: bold;
     font-size: xx-large;
 }
+
+img {
+    border-radius: 50%;
+    border-width: 2px;
+    height: 10vw;
+    align-self: center;
+    border-color: bisque;
+}
