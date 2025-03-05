@@ -19,3 +19,14 @@ img {
     align-self: center;
     border-color: bisque;
 }
+
+.introduction {
+    padding: 40px;
+    border: 10px, 2px solid #f4f4f4;
+    border-radius: 50px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px, 5vw, 1em;
+    margin-bottom: -18px;
+    margin-right: 450px;background-color: purple;
+}
