@@ -1,7 +1,6 @@
 
 body{
 background-color:#f4f4f4;
-color;#333;
 font-family: "Poppins", sans-serif;
 line-height: 1.6;
 }
@@ -29,4 +28,14 @@ img {
     margin: 20px, 5vw, 1em;
     margin-bottom: -18px;
     margin-right: 450px;background-color: purple;
+}
+
+.introduction p {
+    text-align:start;
+    font-size: large;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.6;
+    color: white;
+    
 }
